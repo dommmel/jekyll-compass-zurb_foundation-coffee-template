@@ -1,0 +1,8 @@
+name: MySite
+assets:
+  compress:
+    js:   uglifier
+    css:  sass
+exclude: ["Gemfile", "Gemfile.lock"]
+
+
